@@ -16,3 +16,8 @@ powerful but yet reliable sound module. In our prototype it is a simple buzzer m
 
 ![image](https://user-images.githubusercontent.com/72214531/135224847-d892ffd0-d8bf-4496-9a8f-6df747723577.png)
 
+
+![image](https://user-images.githubusercontent.com/72214531/135226085-dc2994e3-ba92-495a-bebb-13fca3c31a60.png)
+
+
+![image](https://user-images.githubusercontent.com/72214531/135226163-fa80b623-5c25-4257-939c-cb9254585d65.png)
