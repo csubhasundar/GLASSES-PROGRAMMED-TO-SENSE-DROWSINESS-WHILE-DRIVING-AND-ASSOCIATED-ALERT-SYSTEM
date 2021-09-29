@@ -2,32 +2,5 @@
 WE ALL DRIVE SOME MODE OF TRANSPORT OR THE OTHER NOW A DAYS BUT WHAT CONCERNS US IS ABOUT THE SAFETY OF DRIVERS THROUGHOUT THE WORLD. WE THUS PLAN TO DEVELOP A SMART GLASS WHICH WILL HELP US AND ALL THE DRIVERS AROUND THE WORLD TO ATTAIN SAFETY WHILE DRIVING
 #define SENSE A0 
 
-void setup()
-{
-pinMode(SENSE, INPUT);
-pinMode(2, OUTPUT);
-
-
-pinMode(LED_BUILTIN, OUTPUT);
-}
-void loop()
-{
-if(digitalRead(SENSE))
-{
- digitalWrite(LED_BUILTIN, LOW);
- pinMode(2, LOW);
-}
-else
-{
-  delay (2000);
-  if(digitalRead(SENSE))
-  {
- digitalWrite(LED_BUILTIN, LOW);
- pinMode(2, LOW);
-}
-  else
-  digitalWrite(LED_BUILTIN, HIGH);  
-   pinMode(2, HIGH);
-  }
-}
+![image](https://user-images.githubusercontent.com/72214531/135224847-d892ffd0-d8bf-4496-9a8f-6df747723577.png)
 
